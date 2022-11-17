@@ -32,7 +32,7 @@ discovery:
     - philips_hue
     - yeelight
     - denonavr
-#conversation:
+#conversation: TESTING 123
 logger: !include logger.yaml
 
 logbook: !include logbook.yaml
